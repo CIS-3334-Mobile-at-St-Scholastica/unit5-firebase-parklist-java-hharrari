@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616740485853",
+    "project_id": "cis3334-firebasestart-f25-hiba",
+    "storage_bucket": "cis3334-firebasestart-f25-hiba.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616740485853:android:0348d79002bd42a457f934",
+        "android_client_info": {
+          "package_name": "cis3334.firebasestart_f25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5awso1g_RKtf5XPXYvrR5U5nsgo_7eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616740485853:android:bf56ee465a6bc4bf57f934",
+        "android_client_info": {
+          "package_name": "cis3334.java_firebase_parklist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDE5awso1g_RKtf5XPXYvrR5U5nsgo_7eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
